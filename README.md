@@ -1,16 +1,13 @@
-## Hi there 👋
+# Ian Goh
 
-<!--
-**iang0h/iang0h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Builder across AI, product, and growth. Shipping tools, experiments, and digital systems.
 
-Here are some ideas to get you started:
+## Sites and projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Ian Goh](https://iangoh.com/) — Personal site
+- [Ian Goh Lab](https://lab.iangoh.com/) — Public map of live products, AI systems, growth playbooks, and venture experiments
+- [FourType](https://fourtype.com/) — Free temperament quiz with 16 profiles
+- [Skill Rivals](https://skillrivals.com/) — Browser arena brawler with solo and multiplayer modes
+- [ExtractMint](https://extractmint.com/) — Browser-based bank statement converter
+- [Borneo Travels](https://borneotravels.com/) — Interactive guide and trip planner for Borneo
+- [Wang Haron & Goh](https://whgsabah.com/) — Civil and structural engineering consultancy
